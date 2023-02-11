@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1eca2dfa-a61f-42be-b5d6-d2c0c8e55314" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/server_logic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/core/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/game/mod_icon.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/game/mod_player.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/game/player.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/go.mod" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="F:\Goland\go1.17.6" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="282eepZKImkAKuiFrwDustL0dQ7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.全局.GOPATH.is.expanded" value="true" />
+    <property name="configurable.模块.GOPATH.is.expanded" value="false" />
+    <property name="configurable.项目.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\goproject\src\server_logic\server" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="767" y="349" key="#GOROOT" timestamp="1650421913216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="767" y="349" key="#GOROOT/0.0.1536.824@0.0.1536.824" timestamp="1650421913216" />
+    <state x="773" y="262" key="#Go_Modules" timestamp="1650419379636">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="773" y="262" key="#Go_Modules/0.0.1536.824@0.0.1536.824" timestamp="1650419379636" />
+    <state x="498" y="235" key="#Notifications" timestamp="1650420898261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="235" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1650420898261" />
+    <state x="755" y="174" key="FileChooserDialogImpl" timestamp="1650422269142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="755" y="174" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1650422269142" />
+    <state x="317" y="61" key="SettingsEditor" timestamp="1650422269962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="317" y="61" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1650422269962" />
+  </component>
+</project>
